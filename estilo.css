@@ -1,0 +1,34 @@
+h1 {
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+body {
+	text-align: center;
+}
+
+p.numero{
+    color: brown;
+    text-align: center;
+}
+
+section{
+   
+    max-width: 20%;
+    text-align: center;
+    display: inline-block;
+}
+img{
+    width:100%;
+
+}
+
+
+.uno{
+
+    background-color: coral;
+
+}
+.dos{
+    background-color: cadetblue;
+}
